@@ -17,3 +17,4 @@
 - https://github.com/marketplace/actions/configure-aws-credentials-action-for-github-actions
 - https://github.com/marketplace/actions/amazon-ecr-login-action-for-github-actions
 - https://github.com/marketplace/actions/build-and-push-docker-images
+- https://github.com/marketplace/actions/helm-tool-installer

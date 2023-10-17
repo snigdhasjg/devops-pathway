@@ -11,9 +11,9 @@ on:
 concurrency: build-app
 
 jobs:
-  build-app:
+  app-build:
     runs-on: ubuntu-latest
-    name: Build App
+    name: App Build
     env:
         AWS_REGION: ap-south-1
         AWS_DEFAULT_REGION: us-east-1
